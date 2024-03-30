@@ -1,0 +1,59 @@
+==================================================
+file name: Dinocampuscoccinellae1genome.fna
+sequences:            10
+total length:  110472747 bp  (110458347 bp excl N/X-runs)
+GC level:         29.61 %
+bases masked:   26226378 bp ( 23.74 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        16493      4346261 bp    3.93 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:            15491      3381108 bp    3.06 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         30        58600 bp    0.05 %
+     R1/LOA/Jockey   15319      3232442 bp    2.93 %
+     R2/R4/NeSL        142        90066 bp    0.08 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      1002       965153 bp    0.87 %
+     BEL/Pao           240       374592 bp    0.34 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1       432       550150 bp    0.50 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       2431      1301354 bp    1.18 %
+   hobo-Activator      442       223027 bp    0.20 %
+   Tc1-IS630-Pogo      758       345048 bp    0.31 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             98        66316 bp    0.06 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        611       457852 bp    0.41 %
+
+Unclassified:        21790      6576293 bp    5.95 %
+
+Total interspersed repeats:    12223908 bp   11.07 %
+
+
+Small RNA:             123       153183 bp    0.14 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:     255083     10603166 bp    9.60 %
+Low complexity:      49640      2788269 bp    2.52 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Dinocampuscoccinellae1genomeRepMod-families.fa"
+FamDB: 

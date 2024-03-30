@@ -1,0 +1,59 @@
+==================================================
+file name: Microplitismediatorgenome.fsa_nt
+sequences:           658
+total length:  214883576 bp  (214612456 bp excl N/X-runs)
+GC level:         31.35 %
+bases masked:   97507239 bp ( 45.38 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        11711     12272915 bp    5.71 %
+   SINEs:              381       163818 bp    0.08 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             3917      4298642 bp    2.00 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1588       546860 bp    0.25 %
+     R1/LOA/Jockey     610       457280 bp    0.21 %
+     R2/R4/NeSL       1352      2738518 bp    1.27 %
+     RTE/Bov-B         121       251344 bp    0.12 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      7413      7810455 bp    3.63 %
+     BEL/Pao           617       699221 bp    0.33 %
+     Ty1/Copia         197       188292 bp    0.09 %
+     Gypsy/DIRS1      6559      6877817 bp    3.20 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      25649      9113036 bp    4.24 %
+   hobo-Activator      250       106205 bp    0.05 %
+   Tc1-IS630-Pogo    16764      5879941 bp    2.74 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            116        31498 bp    0.01 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,      263        76774 bp    0.04 %
+    P-element, Transib)
+
+Rolling-circles       1350       393169 bp    0.18 %
+
+Unclassified:       274271     64386501 bp   29.96 %
+
+Total interspersed repeats:    85772452 bp   39.92 %
+
+
+Small RNA:            4504      1956582 bp    0.91 %
+
+Satellites:           1674       539465 bp    0.25 %
+Simple repeats:     145227      7757957 bp    3.61 %
+Low complexity:      21912      1087614 bp    0.51 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "MicroplitismediatorRepMod-families.fa"
+FamDB: 

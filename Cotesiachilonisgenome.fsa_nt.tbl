@@ -1,0 +1,59 @@
+==================================================
+file name: Cotesiachilonisgenome.fsa_nt
+sequences:           363
+total length:  189510483 bp  (189213675 bp excl N/X-runs)
+GC level:         30.36 %
+bases masked:   66764674 bp ( 35.23 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         7394      8503261 bp    4.49 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope            120        31766 bp    0.02 %
+   LINEs:             3906      3405971 bp    1.80 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1607      1195303 bp    0.63 %
+     R1/LOA/Jockey    1371      1015291 bp    0.54 %
+     R2/R4/NeSL        593      1005076 bp    0.53 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      3488      5097290 bp    2.69 %
+     BEL/Pao           419       612825 bp    0.32 %
+     Ty1/Copia         232       255201 bp    0.13 %
+     Gypsy/DIRS1      2351      4152858 bp    2.19 %
+       Retroviral      484        76054 bp    0.04 %
+
+DNA transposons      15924      7676466 bp    4.05 %
+   hobo-Activator     3499      2870658 bp    1.51 %
+   Tc1-IS630-Pogo     2410       646575 bp    0.34 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            590       164712 bp    0.09 %
+   Tourist/Harbinger   175        99385 bp    0.05 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       5316      2875931 bp    1.52 %
+
+Unclassified:       156127     37760728 bp   19.93 %
+
+Total interspersed repeats:    53940455 bp   28.46 %
+
+
+Small RNA:            2634       885151 bp    0.47 %
+
+Satellites:            150      1204006 bp    0.64 %
+Simple repeats:     150482      6652273 bp    3.51 %
+Low complexity:      23973      1206858 bp    0.64 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "CotesiachilonisRepMod-families.fa"
+FamDB: 

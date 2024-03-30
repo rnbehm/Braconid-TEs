@@ -1,0 +1,59 @@
+==================================================
+file name: Macrocentrusgenome.fasta 
+sequences:         79767
+total length:  129138792 bp  (129043492 bp excl N/X-runs)
+GC level:         35.69 %
+bases masked:   35815476 bp ( 27.73 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         6288      2019822 bp    1.56 %
+   SINEs:             2618       384852 bp    0.30 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             2487      1060916 bp    0.82 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         24        19247 bp    0.01 %
+     R1/LOA/Jockey    1999       799448 bp    0.62 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         432       239178 bp    0.19 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      1183       574054 bp    0.44 %
+     BEL/Pao            37        32405 bp    0.03 %
+     Ty1/Copia         302       128047 bp    0.10 %
+     Gypsy/DIRS1       844       413602 bp    0.32 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      23219      6432436 bp    4.98 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo      130        67252 bp    0.05 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       1168       273571 bp    0.21 %
+
+Unclassified:       125270     24788486 bp   19.20 %
+
+Total interspersed repeats:    33240744 bp   25.74 %
+
+
+Small RNA:            2756       398363 bp    0.31 %
+
+Satellites:            819        79454 bp    0.06 %
+Simple repeats:      48598      1797958 bp    1.39 %
+Low complexity:       9061       410238 bp    0.32 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "MacrocentrusgenomeRepMod-families.fa"
+FamDB: 

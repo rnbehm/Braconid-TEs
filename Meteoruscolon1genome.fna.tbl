@@ -1,0 +1,59 @@
+==================================================
+file name: Meteoruscolon1genome.fna 
+sequences:         20721
+total length:  132022006 bp  (132020735 bp excl N/X-runs)
+GC level:         34.28 %
+bases masked:   14262710 bp ( 10.80 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         3500      1526311 bp    1.16 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             1452       674177 bp    0.51 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        292        99072 bp    0.08 %
+     R1/LOA/Jockey     140        76341 bp    0.06 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B          29         5227 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      2048       852134 bp    0.65 %
+     BEL/Pao           539       216703 bp    0.16 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      1509       635431 bp    0.48 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       5174      1489002 bp    1.13 %
+   hobo-Activator      110        24530 bp    0.02 %
+   Tc1-IS630-Pogo      419        98089 bp    0.07 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            213        65881 bp    0.05 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       1732       627716 bp    0.48 %
+
+Unclassified:        36152      6546353 bp    4.96 %
+
+Total interspersed repeats:     9561666 bp    7.24 %
+
+
+Small RNA:             663       114171 bp    0.09 %
+
+Satellites:            117        19844 bp    0.02 %
+Simple repeats:      74479      3169091 bp    2.40 %
+Low complexity:      15088       770222 bp    0.58 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Meteoruscolon1genomeRepMod-families.fa"
+FamDB: 

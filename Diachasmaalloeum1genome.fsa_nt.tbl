@@ -1,0 +1,59 @@
+==================================================
+file name: Diachasmaalloeum1genome.fsa_nt
+sequences:         24825
+total length:  360538188 bp  (360538188 bp excl N/X-runs)
+GC level:         38.30 %
+bases masked:  206489707 bp ( 57.27 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        37928     29661874 bp    8.23 %
+   SINEs:             1303       285464 bp    0.08 %
+   Penelope           2867      1368005 bp    0.38 %
+   LINEs:            15010     10983675 bp    3.05 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1689      1400096 bp    0.39 %
+     R1/LOA/Jockey    5050      3722416 bp    1.03 %
+     R2/R4/NeSL       1308      1182862 bp    0.33 %
+     RTE/Bov-B        3042      2940014 bp    0.82 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:     21615     18392735 bp    5.10 %
+     BEL/Pao          4161      3834319 bp    1.06 %
+     Ty1/Copia        2424      2481942 bp    0.69 %
+     Gypsy/DIRS1     13744     11614627 bp    3.22 %
+       Retroviral      134        94093 bp    0.03 %
+
+DNA transposons      43472     22598230 bp    6.27 %
+   hobo-Activator     3682      1229702 bp    0.34 %
+   Tc1-IS630-Pogo     6628      4166867 bp    1.16 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             90        35344 bp    0.01 %
+   Tourist/Harbinger    51        13156 bp    0.00 %
+   Other (Mirage,      674       286910 bp    0.08 %
+    P-element, Transib)
+
+Rolling-circles      22745      5490079 bp    1.52 %
+
+Unclassified:       647608    144497269 bp   40.08 %
+
+Total interspersed repeats:   196757373 bp   54.57 %
+
+
+Small RNA:            2104       635978 bp    0.18 %
+
+Satellites:           2754       732813 bp    0.20 %
+Simple repeats:      47174      2477906 bp    0.69 %
+Low complexity:       7988       395558 bp    0.11 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Diachasmaalloeum1RepMod-families.fa"
+FamDB: 

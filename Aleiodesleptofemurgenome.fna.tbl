@@ -1,0 +1,59 @@
+==================================================
+file name: Aleiodesleptofemurgenome.fna
+sequences:            17
+total length:  271235516 bp  (271182916 bp excl N/X-runs)
+GC level:         34.34 %
+bases masked:  141654947 bp ( 52.23 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        14012      8492129 bp    3.13 %
+   SINEs:             3151       668996 bp    0.25 %
+   Penelope           1879       915090 bp    0.34 %
+   LINEs:             6695      3848253 bp    1.42 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       2059      1057534 bp    0.39 %
+     R1/LOA/Jockey     915       429836 bp    0.16 %
+     R2/R4/NeSL        143       127358 bp    0.05 %
+     RTE/Bov-B         696       476146 bp    0.18 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      4166      3974880 bp    1.47 %
+     BEL/Pao           638       566566 bp    0.21 %
+     Ty1/Copia         453       293070 bp    0.11 %
+     Gypsy/DIRS1      3075      3115244 bp    1.15 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      39927     10400231 bp    3.83 %
+   hobo-Activator     8692      2108165 bp    0.78 %
+   Tc1-IS630-Pogo     4405      1998270 bp    0.74 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           1246       399754 bp    0.15 %
+   Tourist/Harbinger   923       377355 bp    0.14 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       5584      1801989 bp    0.66 %
+
+Unclassified:       466894    114163362 bp   42.09 %
+
+Total interspersed repeats:   133055722 bp   49.06 %
+
+
+Small RNA:            4710      1568532 bp    0.58 %
+
+Satellites:            217        10904 bp    0.00 %
+Simple repeats:     106589      4111797 bp    1.52 %
+Low complexity:      23268      1106003 bp    0.41 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "AleiodesleptofemurgenomeRepMod-families.fa"
+FamDB: 

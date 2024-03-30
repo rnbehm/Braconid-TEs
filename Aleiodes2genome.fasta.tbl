@@ -1,0 +1,59 @@
+==================================================
+file name: Aleiodes2genome.fasta    
+sequences:         68756
+total length:  224392313 bp  (224381813 bp excl N/X-runs)
+GC level:         34.83 %
+bases masked:  101536889 bp ( 45.25 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        16057      6203556 bp    2.76 %
+   SINEs:             6081      1310609 bp    0.58 %
+   Penelope           1263       354676 bp    0.16 %
+   LINEs:             4167      1770065 bp    0.79 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        766       397425 bp    0.18 %
+     R1/LOA/Jockey     755       228234 bp    0.10 %
+     R2/R4/NeSL        360       168614 bp    0.08 %
+     RTE/Bov-B         526       346726 bp    0.15 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      5809      3122882 bp    1.39 %
+     BEL/Pao           933       445322 bp    0.20 %
+     Ty1/Copia         115       109238 bp    0.05 %
+     Gypsy/DIRS1      4578      2512666 bp    1.12 %
+       Retroviral      183        55656 bp    0.02 %
+
+DNA transposons      19067      4314665 bp    1.92 %
+   hobo-Activator     1748       764419 bp    0.34 %
+   Tc1-IS630-Pogo     4028      1104122 bp    0.49 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            772       185819 bp    0.08 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        659       341395 bp    0.15 %
+
+Unclassified:       435391     84537890 bp   37.67 %
+
+Total interspersed repeats:    95056111 bp   42.36 %
+
+
+Small RNA:            3878       663700 bp    0.30 %
+
+Satellites:            300        35137 bp    0.02 %
+Simple repeats:     111024      4326285 bp    1.93 %
+Low complexity:      23743      1114261 bp    0.50 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Aleiodes2genomeRepMod-families.fa"
+FamDB: 

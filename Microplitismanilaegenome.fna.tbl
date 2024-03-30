@@ -1,0 +1,59 @@
+==================================================
+file name: Microplitismanilaegenome.fna
+sequences:           363
+total length:  282852855 bp  (282670355 bp excl N/X-runs)
+GC level:         31.26 %
+bases masked:  159676873 bp ( 56.45 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        17824     22451306 bp    7.94 %
+   SINEs:              619       254621 bp    0.09 %
+   Penelope            162        89452 bp    0.03 %
+   LINEs:             8281      6727972 bp    2.38 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       4922      2613673 bp    0.92 %
+     R1/LOA/Jockey     574       632085 bp    0.22 %
+     R2/R4/NeSL       1551      2354839 bp    0.83 %
+     RTE/Bov-B         548       511174 bp    0.18 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      8924     15468713 bp    5.47 %
+     BEL/Pao          1584      1841842 bp    0.65 %
+     Ty1/Copia         435       405787 bp    0.14 %
+     Gypsy/DIRS1      6715     12973711 bp    4.59 %
+       Retroviral      150       185498 bp    0.07 %
+
+DNA transposons      58174     24370273 bp    8.62 %
+   hobo-Activator     1455       710543 bp    0.25 %
+   Tc1-IS630-Pogo    36098     14436071 bp    5.10 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            501       104108 bp    0.04 %
+   Tourist/Harbinger    75        10849 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       5803      1812488 bp    0.64 %
+
+Unclassified:       326973     98711885 bp   34.90 %
+
+Total interspersed repeats:   145533464 bp   51.45 %
+
+
+Small RNA:            4778      1669934 bp    0.59 %
+
+Satellites:           3161      1304859 bp    0.46 %
+Simple repeats:     160795      8325920 bp    2.94 %
+Low complexity:      24222      1223111 bp    0.43 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "MicroplitismanilaegenomeRepMod-families.fa"
+FamDB: 

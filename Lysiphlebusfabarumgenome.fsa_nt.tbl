@@ -1,0 +1,59 @@
+==================================================
+file name: Lysiphlebusfabarumgenome.fsa_nt
+sequences:          1698
+total length:  140705580 bp  (140705580 bp excl N/X-runs)
+GC level:         23.83 %
+bases masked:   46928878 bp ( 33.35 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1781      1832965 bp    1.30 %
+   SINEs:               72        47102 bp    0.03 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              660       682528 bp    0.49 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey     357       367574 bp    0.26 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         107       103128 bp    0.07 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      1049      1103335 bp    0.78 %
+     BEL/Pao           275       232633 bp    0.17 %
+     Ty1/Copia         153       128741 bp    0.09 %
+     Gypsy/DIRS1       621       741961 bp    0.53 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       5009      3900419 bp    2.77 %
+   hobo-Activator      520       198966 bp    0.14 %
+   Tc1-IS630-Pogo      111        19446 bp    0.01 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       2648      1291645 bp    0.92 %
+
+Unclassified:        65926     26114578 bp   18.56 %
+
+Total interspersed repeats:    31847962 bp   22.63 %
+
+
+Small RNA:             441       716834 bp    0.51 %
+
+Satellites:             35         1800 bp    0.00 %
+Simple repeats:     228599     10183627 bp    7.24 %
+Low complexity:      54758      2934112 bp    2.09 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "LysiphlebusfabarumRepMod-families.fa"
+FamDB: 

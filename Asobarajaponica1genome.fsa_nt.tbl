@@ -1,0 +1,59 @@
+==================================================
+file name: Asobarajaponica1genome.fsa_nt
+sequences:           601
+total length:  322176672 bp  (322176672 bp excl N/X-runs)
+GC level:         39.07 %
+bases masked:  165518971 bp ( 51.38 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        28177     19596259 bp    6.08 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope            527       127312 bp    0.04 %
+   LINEs:            23278     14875668 bp    4.62 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       2270      1374250 bp    0.43 %
+     R1/LOA/Jockey   12255      7882173 bp    2.45 %
+     R2/R4/NeSL        574       303793 bp    0.09 %
+     RTE/Bov-B        1443      1193868 bp    0.37 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      4899      4720591 bp    1.47 %
+     BEL/Pao          1022       825012 bp    0.26 %
+     Ty1/Copia         522       440902 bp    0.14 %
+     Gypsy/DIRS1      2594      3120044 bp    0.97 %
+       Retroviral      114        33358 bp    0.01 %
+
+DNA transposons      15375      6594010 bp    2.05 %
+   hobo-Activator     1958       612699 bp    0.19 %
+   Tc1-IS630-Pogo     3081       891791 bp    0.28 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            254        70349 bp    0.02 %
+   Tourist/Harbinger   120        86536 bp    0.03 %
+   Other (Mirage,     1270       323010 bp    0.10 %
+    P-element, Transib)
+
+Rolling-circles      19848      7645415 bp    2.37 %
+
+Unclassified:       311456    120862792 bp   37.51 %
+
+Total interspersed repeats:   147053061 bp   45.64 %
+
+
+Small RNA:            5847      3264093 bp    1.01 %
+
+Satellites:           3230       436820 bp    0.14 %
+Simple repeats:      78532      6152362 bp    1.91 %
+Low complexity:      12640       967220 bp    0.30 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Asobarajaponica1RepMod-families.fa"
+FamDB: 

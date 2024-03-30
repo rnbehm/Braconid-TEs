@@ -1,0 +1,59 @@
+==================================================
+file name: Zelealbiditarsusgenome.fna
+sequences:            11
+total length:  137700185 bp  (137692385 bp excl N/X-runs)
+GC level:         33.74 %
+bases masked:   22567916 bp ( 16.39 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1506      1920435 bp    1.39 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope             68         5178 bp    0.00 %
+   LINEs:              592       688528 bp    0.50 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey     158       130947 bp    0.10 %
+     R2/R4/NeSL         13        51207 bp    0.04 %
+     RTE/Bov-B         146       257750 bp    0.19 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       914      1231907 bp    0.89 %
+     BEL/Pao           133       221797 bp    0.16 %
+     Ty1/Copia          88       107560 bp    0.08 %
+     Gypsy/DIRS1       693       902550 bp    0.66 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       3907      1979101 bp    1.44 %
+   hobo-Activator      324       131919 bp    0.10 %
+   Tc1-IS630-Pogo      651       260715 bp    0.19 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            655       101105 bp    0.07 %
+   Tourist/Harbinger   127        57755 bp    0.04 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        395       365015 bp    0.27 %
+
+Unclassified:        47253     11696981 bp    8.49 %
+
+Total interspersed repeats:    15596517 bp   11.33 %
+
+
+Small RNA:             299       442913 bp    0.32 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:     125801      5043430 bp    3.66 %
+Low complexity:      22399      1120041 bp    0.81 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "ZelealbiditarsusgenomeRepMod-families.fa"
+FamDB: 

@@ -1,0 +1,59 @@
+==================================================
+file name: Chelonusinsularisgenome.fsa_nt
+sequences:           455
+total length:  135730493 bp  (135730493 bp excl N/X-runs)
+GC level:         30.53 %
+bases masked:   27344250 bp ( 20.15 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         6434      6185247 bp    4.56 %
+   SINEs:              194       129096 bp    0.10 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             1958      1796421 bp    1.32 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        136        91988 bp    0.07 %
+     R1/LOA/Jockey     791       674766 bp    0.50 %
+     R2/R4/NeSL        716       636031 bp    0.47 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      4282      4259730 bp    3.14 %
+     BEL/Pao           929       994645 bp    0.73 %
+     Ty1/Copia         483       514411 bp    0.38 %
+     Gypsy/DIRS1      2870      2750674 bp    2.03 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       7750      4776377 bp    3.52 %
+   hobo-Activator      599       356482 bp    0.26 %
+   Tc1-IS630-Pogo      989       465441 bp    0.34 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            102       114136 bp    0.08 %
+   Tourist/Harbinger   101        50321 bp    0.04 %
+   Other (Mirage,      184       131951 bp    0.10 %
+    P-element, Transib)
+
+Rolling-circles       3420      1257434 bp    0.93 %
+
+Unclassified:        46177     11695298 bp    8.62 %
+
+Total interspersed repeats:    22656922 bp   16.69 %
+
+
+Small RNA:             285       259371 bp    0.19 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      53721      2579021 bp    1.90 %
+Low complexity:      12109       591502 bp    0.44 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "ChelonusinsularisRepMod-families.fa"
+FamDB: 
