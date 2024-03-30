@@ -1,0 +1,59 @@
+==================================================
+file name: Microplitisdemolitor2genome.fna
+sequences:            31
+total length:  225878136 bp  (225870236 bp excl N/X-runs)
+GC level:         30.70 %
+bases masked:  110207166 bp ( 48.79 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        13449     14463873 bp    6.40 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope            483       100577 bp    0.04 %
+   LINEs:             3974      3380401 bp    1.50 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1457       786535 bp    0.35 %
+     R1/LOA/Jockey     684       658756 bp    0.29 %
+     R2/R4/NeSL        457       751236 bp    0.33 %
+     RTE/Bov-B         289       804726 bp    0.36 %
+     L1/CIN4           125       119767 bp    0.05 %
+   LTR elements:      9475     11083472 bp    4.91 %
+     BEL/Pao          1553      2076970 bp    0.92 %
+     Ty1/Copia          70        78626 bp    0.03 %
+     Gypsy/DIRS1      7751      8915555 bp    3.95 %
+       Retroviral      101        12321 bp    0.01 %
+
+DNA transposons      38840     14488203 bp    6.41 %
+   hobo-Activator     1374       409183 bp    0.18 %
+   Tc1-IS630-Pogo    24398      7637845 bp    3.38 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             70        17248 bp    0.01 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3909      1503356 bp    0.67 %
+
+Unclassified:       254668     68297279 bp   30.24 %
+
+Total interspersed repeats:    97249355 bp   43.05 %
+
+
+Small RNA:            1850       914996 bp    0.41 %
+
+Satellites:           1055       138002 bp    0.06 %
+Simple repeats:     162332      9164965 bp    4.06 %
+Low complexity:      24587      1236492 bp    0.55 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Microplitisdemolitor2genomeRepMod-families.fa"
+FamDB: 

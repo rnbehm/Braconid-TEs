@@ -1,0 +1,59 @@
+==================================================
+file name: Microctonusbrassicae1genome.fna
+sequences:            14
+total length:  137881629 bp  (137786129 bp excl N/X-runs)
+GC level:         29.78 %
+bases masked:   37054154 bp ( 26.87 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         2597      3220233 bp    2.34 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             1123      1024779 bp    0.74 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        185       141213 bp    0.10 %
+     R1/LOA/Jockey     263       331482 bp    0.24 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         156       271888 bp    0.20 %
+     L1/CIN4           324        20109 bp    0.01 %
+   LTR elements:      1474      2195454 bp    1.59 %
+     BEL/Pao           291       382965 bp    0.28 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      1183      1812489 bp    1.31 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      11121      7286824 bp    5.28 %
+   hobo-Activator      711       372139 bp    0.27 %
+   Tc1-IS630-Pogo     4894      1868882 bp    1.36 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger   183       116800 bp    0.08 %
+   Other (Mirage,      364       236919 bp    0.17 %
+    P-element, Transib)
+
+Rolling-circles       1667       941742 bp    0.68 %
+
+Unclassified:        55915     16352889 bp   11.86 %
+
+Total interspersed repeats:    26859946 bp   19.48 %
+
+
+Small RNA:              76        30847 bp    0.02 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:     158705      7440467 bp    5.40 %
+Low complexity:      33937      1781152 bp    1.29 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Microctonusbrassicae1genomeRepMod-families.fa"
+FamDB: 

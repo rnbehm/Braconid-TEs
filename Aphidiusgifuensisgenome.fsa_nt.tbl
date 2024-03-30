@@ -1,0 +1,59 @@
+==================================================
+file name: Aphidiusgifuensisgenome.fsa_nt
+sequences:            24
+total length:  156944493 bp  (156933293 bp excl N/X-runs)
+GC level:         26.47 %
+bases masked:   53596245 bp ( 34.15 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         3866      3058594 bp    1.95 %
+   SINEs:              356        68066 bp    0.04 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              535       394852 bp    0.25 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        333       303269 bp    0.19 %
+     R1/LOA/Jockey      19         6791 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      2975      2595676 bp    1.65 %
+     BEL/Pao           754       643845 bp    0.41 %
+     Ty1/Copia         473       343412 bp    0.22 %
+     Gypsy/DIRS1      1626      1515084 bp    0.97 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       7030      5142158 bp    3.28 %
+   hobo-Activator      661       203003 bp    0.13 %
+   Tc1-IS630-Pogo      238       101135 bp    0.06 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,       33        20741 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles       2548      1071678 bp    0.68 %
+
+Unclassified:       102413     33243964 bp   21.18 %
+
+Total interspersed repeats:    41444716 bp   26.41 %
+
+
+Small RNA:             843       243021 bp    0.15 %
+
+Satellites:            297        91111 bp    0.06 %
+Simple repeats:     186534      8195323 bp    5.22 %
+Low complexity:      48955      2550396 bp    1.63 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "AphidiusgifuensisRepMod-families.fa"
+FamDB: 

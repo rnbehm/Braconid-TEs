@@ -1,0 +1,59 @@
+==================================================
+file name: Diachasmimorphalongicaudatagenome.fna
+sequences:           247
+total length:  194469256 bp  (194463656 bp excl N/X-runs)
+GC level:         40.47 %
+bases masked:   78587203 bp ( 40.41 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         6259      6581445 bp    3.38 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope            173        27250 bp    0.01 %
+   LINEs:             2964      2203682 bp    1.13 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey    2408      1927332 bp    0.99 %
+     R2/R4/NeSL         78        12049 bp    0.01 %
+     RTE/Bov-B          83        91206 bp    0.05 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      3295      4377763 bp    2.25 %
+     BEL/Pao           861      1255339 bp    0.65 %
+     Ty1/Copia          82       175032 bp    0.09 %
+     Gypsy/DIRS1      2320      2912673 bp    1.50 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       2509      2820695 bp    1.45 %
+   hobo-Activator      282        74865 bp    0.04 %
+   Tc1-IS630-Pogo      297       138035 bp    0.07 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             71        37616 bp    0.02 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,       65        27538 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles        879       759832 bp    0.39 %
+
+Unclassified:       146292     61477119 bp   31.61 %
+
+Total interspersed repeats:    70879259 bp   36.45 %
+
+
+Small RNA:            1985      2224886 bp    1.14 %
+
+Satellites:             89        14221 bp    0.01 %
+Simple repeats:      27263      4352708 bp    2.24 %
+Low complexity:       6228       356297 bp    0.18 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "DiachasmimorphalongicaudatagenomeRepMod-families.fa"
+FamDB: 

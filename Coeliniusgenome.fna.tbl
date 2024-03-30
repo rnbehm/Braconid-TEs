@@ -1,0 +1,59 @@
+==================================================
+file name: Coeliniusgenome.fna      
+sequences:            47
+total length:  149677641 bp  (149656041 bp excl N/X-runs)
+GC level:         36.32 %
+bases masked:   49192316 bp ( 32.87 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         5273      4203623 bp    2.81 %
+   SINEs:              506        83564 bp    0.06 %
+   Penelope           1277       739138 bp    0.49 %
+   LINEs:             2737      2037946 bp    1.36 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        187       119332 bp    0.08 %
+     R1/LOA/Jockey    1109      1062433 bp    0.71 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         138        93680 bp    0.06 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      2030      2082113 bp    1.39 %
+     BEL/Pao           631       575800 bp    0.38 %
+     Ty1/Copia         274       329330 bp    0.22 %
+     Gypsy/DIRS1      1125      1176983 bp    0.79 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      15677      5097237 bp    3.41 %
+   hobo-Activator      311        40104 bp    0.03 %
+   Tc1-IS630-Pogo      507       265614 bp    0.18 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            164       114426 bp    0.08 %
+   Tourist/Harbinger  2375       384954 bp    0.26 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3287      1485843 bp    0.99 %
+
+Unclassified:       124664     35777259 bp   23.90 %
+
+Total interspersed repeats:    45078119 bp   30.12 %
+
+
+Small RNA:             645       108824 bp    0.07 %
+
+Satellites:            542        94300 bp    0.06 %
+Simple repeats:      51212      2027904 bp    1.35 %
+Low complexity:       8810       397326 bp    0.27 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "CoeliniusgenomeRepMod-families.fa"
+FamDB: 

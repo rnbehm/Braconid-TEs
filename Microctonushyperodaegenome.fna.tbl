@@ -1,0 +1,59 @@
+==================================================
+file name: Microctonushyperodaegenome.fna
+sequences:          3663
+total length:  106708529 bp  (103882397 bp excl N/X-runs)
+GC level:         29.49 %
+bases masked:   13793508 bp ( 12.93 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements          540       268390 bp    0.25 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              242        99914 bp    0.09 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        150        51020 bp    0.05 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       298       168476 bp    0.16 %
+     BEL/Pao            85        76852 bp    0.07 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1       107        84117 bp    0.08 %
+       Retroviral      106         7507 bp    0.01 %
+
+DNA transposons       4176      1031946 bp    0.97 %
+   hobo-Activator      206        55266 bp    0.05 %
+   Tc1-IS630-Pogo     2585       545269 bp    0.51 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            522        96384 bp    0.09 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        551       148181 bp    0.14 %
+
+Unclassified:        36859      5823354 bp    5.46 %
+
+Total interspersed repeats:     7123690 bp    6.68 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:     111922      5221410 bp    4.89 %
+Low complexity:      25091      1300227 bp    1.22 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "MicroctonushyperodaegenomeRepMod-families.fa"
+FamDB: 

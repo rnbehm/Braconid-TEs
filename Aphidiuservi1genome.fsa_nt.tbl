@@ -1,0 +1,59 @@
+==================================================
+file name: Aphidiuservi1genome.fsa_nt
+sequences:          3865
+total length:  144532283 bp  (129687169 bp excl N/X-runs)
+GC level:         25.89 %
+bases masked:   32660243 bp ( 22.60 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         2013      1340751 bp    0.93 %
+   SINEs:              192        26662 bp    0.02 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              766       523407 bp    0.36 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        305       166992 bp    0.12 %
+     R1/LOA/Jockey      51        29176 bp    0.02 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B          95        44254 bp    0.03 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      1055       790682 bp    0.55 %
+     BEL/Pao           334       259365 bp    0.18 %
+     Ty1/Copia          54        38141 bp    0.03 %
+     Gypsy/DIRS1       611       470907 bp    0.33 %
+       Retroviral       56        22269 bp    0.02 %
+
+DNA transposons       4549      1373626 bp    0.95 %
+   hobo-Activator      367       132838 bp    0.09 %
+   Tc1-IS630-Pogo      322        93650 bp    0.06 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,       30        25912 bp    0.02 %
+    P-element, Transib)
+
+Rolling-circles        746       312277 bp    0.22 %
+
+Unclassified:        76852     18881003 bp   13.06 %
+
+Total interspersed repeats:    21595380 bp   14.94 %
+
+
+Small RNA:             866       170862 bp    0.12 %
+
+Satellites:             53         6122 bp    0.00 %
+Simple repeats:     185986      8174338 bp    5.66 %
+Low complexity:      46498      2427926 bp    1.68 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Aphidiuservi1RepMod-families.fa"
+FamDB: 

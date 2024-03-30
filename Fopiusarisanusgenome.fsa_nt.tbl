@@ -1,0 +1,59 @@
+==================================================
+file name: Fopiusarisanusgenome.fsa_nt
+sequences:          8510
+total length:  140978447 bp  (140978447 bp excl N/X-runs)
+GC level:         38.60 %
+bases masked:   31712914 bp ( 22.49 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         7364      5677252 bp    4.03 %
+   SINEs:              760       210369 bp    0.15 %
+   Penelope             80        24433 bp    0.02 %
+   LINEs:             2586      1881152 bp    1.33 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey     529       469304 bp    0.33 %
+     R2/R4/NeSL         56        21331 bp    0.02 %
+     RTE/Bov-B         109       136350 bp    0.10 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      4018      3585731 bp    2.54 %
+     BEL/Pao           803       516982 bp    0.37 %
+     Ty1/Copia         192       159455 bp    0.11 %
+     Gypsy/DIRS1      2929      2807063 bp    1.99 %
+       Retroviral       39        32270 bp    0.02 %
+
+DNA transposons       6768      3432556 bp    2.43 %
+   hobo-Activator      626       280672 bp    0.20 %
+   Tc1-IS630-Pogo      257       201182 bp    0.14 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             88        21037 bp    0.01 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,      111        57789 bp    0.04 %
+    P-element, Transib)
+
+Rolling-circles       2785       816599 bp    0.58 %
+
+Unclassified:        86657     19839940 bp   14.07 %
+
+Total interspersed repeats:    28949748 bp   20.53 %
+
+
+Small RNA:            1061       207035 bp    0.15 %
+
+Satellites:             68        15296 bp    0.01 %
+Simple repeats:      33373      1426651 bp    1.01 %
+Low complexity:       6436       297585 bp    0.21 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "FopiusarisanusRepMod-families.fa"
+FamDB: 

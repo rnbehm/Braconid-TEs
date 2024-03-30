@@ -1,0 +1,59 @@
+==================================================
+file name: Aphidiuscolemanigenome.fna
+sequences:            20
+total length:  110733156 bp  (110723356 bp excl N/X-runs)
+GC level:         36.41 %
+bases masked:   22665126 bp ( 20.47 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         8198      4441525 bp    4.01 %
+   SINEs:               40         6123 bp    0.01 %
+   Penelope             49        25379 bp    0.02 %
+   LINEs:              618      1056948 bp    0.95 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey      58        43438 bp    0.04 %
+     R2/R4/NeSL        176       133047 bp    0.12 %
+     RTE/Bov-B          58       109778 bp    0.10 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      7540      3378454 bp    3.05 %
+     BEL/Pao           554       639204 bp    0.58 %
+     Ty1/Copia         267       151560 bp    0.14 %
+     Gypsy/DIRS1      6629      2567088 bp    2.32 %
+       Retroviral       36         7660 bp    0.01 %
+
+DNA transposons       4596      1173490 bp    1.06 %
+   hobo-Activator       78        28523 bp    0.03 %
+   Tc1-IS630-Pogo      159        96445 bp    0.09 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             85        10799 bp    0.01 %
+   Tourist/Harbinger    23        15176 bp    0.01 %
+   Other (Mirage,       29        33744 bp    0.03 %
+    P-element, Transib)
+
+Rolling-circles        232       137082 bp    0.12 %
+
+Unclassified:        75950     14553005 bp   13.14 %
+
+Total interspersed repeats:    20168020 bp   18.21 %
+
+
+Small RNA:            1034       400183 bp    0.36 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      38586      1577144 bp    1.42 %
+Low complexity:       8249       382697 bp    0.35 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "AphidiuscolemanigenomeRepMod-families.fa"
+FamDB: 

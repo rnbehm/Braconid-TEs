@@ -1,0 +1,59 @@
+==================================================
+file name: Chelonusformosanusgenome.fsa_nt
+sequences:            26
+total length:  139590424 bp  (139582424 bp excl N/X-runs)
+GC level:         30.36 %
+bases masked:   28641043 bp ( 20.52 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         3020      3027532 bp    2.17 %
+   SINEs:              235        57130 bp    0.04 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              690       725856 bp    0.52 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         58        71522 bp    0.05 %
+     R1/LOA/Jockey     151       165440 bp    0.12 %
+     R2/R4/NeSL        276       242986 bp    0.17 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      2095      2244546 bp    1.61 %
+     BEL/Pao           445       539880 bp    0.39 %
+     Ty1/Copia          74       115785 bp    0.08 %
+     Gypsy/DIRS1      1526      1565211 bp    1.12 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       7919      7159872 bp    5.13 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo     1413       812292 bp    0.58 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             65        32142 bp    0.02 %
+   Tourist/Harbinger    92        35822 bp    0.03 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       2283       851797 bp    0.61 %
+
+Unclassified:        50858     14198794 bp   10.17 %
+
+Total interspersed repeats:    24386198 bp   17.47 %
+
+
+Small RNA:             555       216555 bp    0.16 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      56662      2640505 bp    1.89 %
+Low complexity:      12387       603118 bp    0.43 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "ChelonusformosanusRepMod-families.fa"
+FamDB: 

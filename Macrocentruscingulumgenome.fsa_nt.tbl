@@ -1,0 +1,59 @@
+==================================================
+file name: Macrocentruscingulumgenome.fsa_nt
+sequences:         12056
+total length:  127916415 bp  (127916415 bp excl N/X-runs)
+GC level:         35.64 %
+bases masked:   25248943 bp ( 19.74 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         3016      1123239 bp    0.88 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              661       243362 bp    0.19 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         111        89337 bp    0.07 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      2355       879877 bp    0.69 %
+     BEL/Pao            81        40621 bp    0.03 %
+     Ty1/Copia         216       103314 bp    0.08 %
+     Gypsy/DIRS1      2058       735942 bp    0.58 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       9135      2406293 bp    1.88 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo       75        12401 bp    0.01 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            279        49221 bp    0.04 %
+   Tourist/Harbinger    63        17264 bp    0.01 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        105         7556 bp    0.01 %
+
+Unclassified:        87266     19585228 bp   15.31 %
+
+Total interspersed repeats:    23114760 bp   18.07 %
+
+
+Small RNA:              41         4699 bp    0.00 %
+
+Satellites:              2          592 bp    0.00 %
+Simple repeats:      46039      1693019 bp    1.32 %
+Low complexity:       9343       428317 bp    0.33 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "MacrocentruscingulumRepMod-families.fa"
+FamDB: 

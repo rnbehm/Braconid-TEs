@@ -1,0 +1,59 @@
+==================================================
+file name: Meteoruscinctellusgenome.fna
+sequences:         21270
+total length:  134084016 bp  (134083129 bp excl N/X-runs)
+GC level:         34.38 %
+bases masked:   14108535 bp ( 10.52 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         3218      1238646 bp    0.92 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              967       487913 bp    0.36 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        142        81641 bp    0.06 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         119       113688 bp    0.08 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      2251       750733 bp    0.56 %
+     BEL/Pao           267       109549 bp    0.08 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      1984       641184 bp    0.48 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       5888      1292743 bp    0.96 %
+   hobo-Activator      217        92932 bp    0.07 %
+   Tc1-IS630-Pogo      837       188091 bp    0.14 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            254        61300 bp    0.05 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       1959       473628 bp    0.35 %
+
+Unclassified:        38748      7237241 bp    5.40 %
+
+Total interspersed repeats:     9768630 bp    7.29 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      73319      3128011 bp    2.33 %
+Low complexity:      14633       738266 bp    0.55 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "MeteoruscinctellusgenomeRepMod-families.fa"
+FamDB: 

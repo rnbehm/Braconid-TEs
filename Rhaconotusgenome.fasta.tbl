@@ -1,0 +1,59 @@
+==================================================
+file name: Rhaconotusgenome.fasta   
+sequences:         93915
+total length:  144098877 bp  (144090969 bp excl N/X-runs)
+GC level:         38.08 %
+bases masked:   36925854 bp ( 25.63 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         8206      6116388 bp    4.24 %
+   SINEs:               77        13379 bp    0.01 %
+   Penelope            431       112259 bp    0.08 %
+   LINEs:             2583      1842727 bp    1.28 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         58        34434 bp    0.02 %
+     R1/LOA/Jockey    1249      1170587 bp    0.81 %
+     R2/R4/NeSL        255       203131 bp    0.14 %
+     RTE/Bov-B         257        92330 bp    0.06 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      5546      4260282 bp    2.96 %
+     BEL/Pao           381       343092 bp    0.24 %
+     Ty1/Copia         506       268639 bp    0.19 %
+     Gypsy/DIRS1      4659      3648551 bp    2.53 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       2097      1182735 bp    0.82 %
+   hobo-Activator      135        84356 bp    0.06 %
+   Tc1-IS630-Pogo        0            0 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,      473       342564 bp    0.24 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:        34720      6445127 bp    4.47 %
+
+Total interspersed repeats:    13744250 bp    9.54 %
+
+
+Small RNA:           29576      5224279 bp    3.63 %
+
+Satellites:          28548      7671019 bp    5.32 %
+Simple repeats:      78914      9669831 bp    6.71 %
+Low complexity:      13818       616475 bp    0.43 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "RhaconotusRepMod-families.fa"
+FamDB: 

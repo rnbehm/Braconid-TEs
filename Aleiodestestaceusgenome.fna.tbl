@@ -1,0 +1,59 @@
+==================================================
+file name: Aleiodestestaceusgenome.fna
+sequences:           273
+total length:  107587683 bp  (107587683 bp excl N/X-runs)
+GC level:         36.35 %
+bases masked:   20048956 bp ( 18.63 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         2111      2346860 bp    2.18 %
+   SINEs:               67        12437 bp    0.01 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              258       256731 bp    0.24 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey     105       112444 bp    0.10 %
+     R2/R4/NeSL        153       144287 bp    0.13 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      1786      2077692 bp    1.93 %
+     BEL/Pao           518       612460 bp    0.57 %
+     Ty1/Copia          59        98155 bp    0.09 %
+     Gypsy/DIRS1      1209      1367077 bp    1.27 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       7409      1363721 bp    1.27 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo        0            0 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        184        66117 bp    0.06 %
+
+Unclassified:        77455     14074379 bp   13.08 %
+
+Total interspersed repeats:    17784960 bp   16.53 %
+
+
+Small RNA:             573       251596 bp    0.23 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:      37910      1558599 bp    1.45 %
+Low complexity:       8330       387684 bp    0.36 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "AleiodestestaceusgenomeRepMod-families.fa"
+FamDB: 

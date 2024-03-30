@@ -1,0 +1,59 @@
+==================================================
+file name: Cotesiaglomeratagenome.fna
+sequences:          3354
+total length:  288846213 bp  (288714513 bp excl N/X-runs)
+GC level:         30.86 %
+bases masked:  160497059 bp ( 55.56 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        36089     27125539 bp    9.39 %
+   SINEs:             2884       885143 bp    0.31 %
+   Penelope            305       136190 bp    0.05 %
+   LINEs:            25764     19962877 bp    6.91 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       7013      3478430 bp    1.20 %
+     R1/LOA/Jockey   17162     15212960 bp    5.27 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         778       687361 bp    0.24 %
+     L1/CIN4           147        71136 bp    0.02 %
+   LTR elements:      7441      6277519 bp    2.17 %
+     BEL/Pao           715      1502095 bp    0.52 %
+     Ty1/Copia         990       623900 bp    0.22 %
+     Gypsy/DIRS1      5736      4151524 bp    1.44 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      32501     13541620 bp    4.69 %
+   hobo-Activator     7825      3271131 bp    1.13 %
+   Tc1-IS630-Pogo     8241      2746458 bp    0.95 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           1669       632929 bp    0.22 %
+   Tourist/Harbinger   896       268759 bp    0.09 %
+   Other (Mirage,      219       197739 bp    0.07 %
+    P-element, Transib)
+
+Rolling-circles       8738      5124582 bp    1.77 %
+
+Unclassified:       364890    103969492 bp   35.99 %
+
+Total interspersed repeats:   144636651 bp   50.07 %
+
+
+Small RNA:            6366      1800860 bp    0.62 %
+
+Satellites:           1672       345745 bp    0.12 %
+Simple repeats:     155552      7586194 bp    2.63 %
+Low complexity:      22796      1142133 bp    0.40 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "CotesiaglomerataRepMod-families.fa"
+FamDB: 

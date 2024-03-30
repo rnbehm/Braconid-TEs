@@ -1,0 +1,59 @@
+==================================================
+file name: Microctonusaethiopoides1genome.fna
+sequences:         10396
+total length:  118862133 bp  (118294695 bp excl N/X-runs)
+GC level:         29.30 %
+bases masked:   21060317 bp ( 17.72 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1461      1150292 bp    0.97 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              854       664027 bp    0.56 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        414       216402 bp    0.18 %
+     R1/LOA/Jockey      94        93362 bp    0.08 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B          42        47445 bp    0.04 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       607       486265 bp    0.41 %
+     BEL/Pao           229       124325 bp    0.10 %
+     Ty1/Copia          39        45503 bp    0.04 %
+     Gypsy/DIRS1       339       316437 bp    0.27 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       7347      2221700 bp    1.87 %
+   hobo-Activator      383       158267 bp    0.13 %
+   Tc1-IS630-Pogo     4739      1361015 bp    1.15 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             42        12871 bp    0.01 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       1244       397483 bp    0.33 %
+
+Unclassified:        47237      8838672 bp    7.44 %
+
+Total interspersed repeats:    12210664 bp   10.27 %
+
+
+Small RNA:              74         6868 bp    0.01 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:     146821      6710849 bp    5.65 %
+Low complexity:      32977      1734453 bp    1.46 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Microctonusaethiopoides1RepMod-families.fa"
+FamDB: 

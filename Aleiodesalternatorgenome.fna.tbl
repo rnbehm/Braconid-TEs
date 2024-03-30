@@ -1,0 +1,59 @@
+==================================================
+file name: Aleiodesalternatorgenome.fna
+sequences:           824
+total length:  246293904 bp  (246293904 bp excl N/X-runs)
+GC level:         34.51 %
+bases masked:  117924087 bp ( 47.88 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        14617      9582967 bp    3.89 %
+   SINEs:             1411       276927 bp    0.11 %
+   Penelope           1214       361815 bp    0.15 %
+   LINEs:             7520      3923253 bp    1.59 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1440       574287 bp    0.23 %
+     R1/LOA/Jockey    3026      1541233 bp    0.63 %
+     R2/R4/NeSL        487       423870 bp    0.17 %
+     RTE/Bov-B         378       379460 bp    0.15 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      5686      5382787 bp    2.19 %
+     BEL/Pao           950      1071514 bp    0.44 %
+     Ty1/Copia         245       327334 bp    0.13 %
+     Gypsy/DIRS1      4458      3949762 bp    1.60 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      25252      7166742 bp    2.91 %
+   hobo-Activator     4675       482792 bp    0.20 %
+   Tc1-IS630-Pogo     3674      1901351 bp    0.77 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            402        97212 bp    0.04 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       4752      1697445 bp    0.69 %
+
+Unclassified:       373549     90356092 bp   36.69 %
+
+Total interspersed repeats:   107105801 bp   43.49 %
+
+
+Small RNA:            5393      4372757 bp    1.78 %
+
+Satellites:            613       104978 bp    0.04 %
+Simple repeats:      93383      3626315 bp    1.47 %
+Low complexity:      22064      1016791 bp    0.41 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "AleiodesalternatorgenomeRepMod-families.fa"
+FamDB: 
